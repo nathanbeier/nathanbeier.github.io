@@ -1,6 +1,6 @@
 html,
 body {
-  background-image: linear-gradient(to right, rgb(0, 118, 104), rgb(143, 0, 178));;
+  background-image: linear-gradient(to right, rgb(0, 118, 104), rgb(143, 0, 178));
   width:100%;
   height:100%;
   font-size: 62.5%;
@@ -74,7 +74,7 @@ main {
 }
 
 footer#connect {
-  background-color: black;
+  background-image: linear-gradient(to right, rgb(0, 118, 104), rgb(143, 0, 178));
   color: #ffffff;
   position: fixed;
   padding: 0.5rem;
