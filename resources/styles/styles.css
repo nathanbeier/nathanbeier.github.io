@@ -234,3 +234,7 @@ footer#connect {
   -webkit-transform: translateX(-25px) translateY(-75px);
   transform: translateX(-25px) translateY(-75px);
 }
+
+#arrow-wrapper {
+    margin-top: 75px;
+}
